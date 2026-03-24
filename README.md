@@ -22,7 +22,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 | **Trabalho em Equipe** | 🤝 O rei do "Dá um pull aí!" |
 | **Resiliência** | 💪 99% erro, mas aquele 1% que compila é puro êxtase |
 
-![Vibe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ6MGprbzMwaWNnenQ5bXJ1YW9zb285M2VveTN0aXY4d2JjNGg2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bYKVTlZRMhK3RaAwQp/giphy.gif)
+
 ---
 
 ### 📊 Estatísticas de Dev
