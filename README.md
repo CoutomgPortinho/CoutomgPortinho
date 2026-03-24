@@ -6,19 +6,18 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-### 🛠️ No que estou trabalhando?
+### ♡ Oque estou fazendo?
 
-- 🎓 **Estudando no SENAI:** Transformando café em linhas de código e lógica de programação.
-- 💻 **Foco atual:** Dominando as artes das linguagens que fazem a mágica acontecer.
-- 🔍 **Curiosidade:** Sempre atrás de um novo framework ou de uma forma mais eficiente de centralizar uma div.
-
+- ♘ **Estudando no SENAI:** Transformando café em linhas de código e lógica de programação.
+- ♗ **Foco atual:** Dominando as artes das linguagens que fazem a mágica acontecer.
+- ♙ **Curiosidade:** Sempre atrás de um novo framework e criar sistemas iconicos
 ---
 
-### 🧪 Minha "Stack" de Sobrevivência
+### ❅ Minha Vibe
 
 | Habilidade | Nível de "Vibe" |
 | :--- | :--- |
-| **Lógica de Programação** | 🧠 Pensando em loops... |
+| **Lógica de Programação** | ღ Pensando a milhão... |
 | **HTML & CSS** | 🎨 Deixando a internet bonita (ou tentando) |
 | **Trabalho em Equipe** | 🤝 O rei do "Dá um pull aí!" |
 | **Resiliência** | 💪 99% erro, mas aquele 1% que compila é puro êxtase |
