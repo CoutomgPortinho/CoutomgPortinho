@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="captura_porto.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
+  <img src="captura.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
 </p>
 
 <p align="center">
