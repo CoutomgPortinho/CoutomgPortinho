@@ -1,10 +1,10 @@
 ### 👨‍💻 Futuro Desenvolvedor de Sistemas | Aluno SENAI 🛠️
 
-Seja bem-vindo ao meu universo de código! Atualmente, estou mergulhado nos estudos do **Curso Técnico em Desenvolvimento de Sistemas no SENAI**, transformando café em funções e bugs em aprendizado. ☕✨
+Atualmente, estou mergulhado no universo dos códigos através do curso técnico em **Desenvolvimento de Sistemas no SENAI**. Sabe aquele erro que aparece do nada na linha 42? Pois é, eu sou o cara que vai passar horas tentando entender o porquê (e provavelmente era apenas um ponto e vírgula esquecido).
 
 ---
 
-## 🎨 O que estou aprontando?
+## $\color{cor}{o que estou fazendo?}$ 
 
 - 📚 **Aprendendo:** Lógica de programação, Banco de Dados e as artes místicas do Backend e Frontend.
 - 💡 **Meta:** Criar soluções que facilitem a vida das pessoas (e que não quebrem em produção, se possível).
