@@ -55,9 +55,7 @@ Se quiser trocar uma ideia sobre projetos, falar mal de erros de sintaxe ou apen
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USER_AQUI)
 
 
-### 🐍 Meu Gráfico de Contribuições
 
-![snake gif](https://github.com/CoutomgPortinho/CoutomgPortinho/blob/output/github-contribution-grid-snake.svg)
 ---
 
 > "Programar não é apenas escrever código, é resolver problemas que você não sabia que tinha de formas que você não entende."
