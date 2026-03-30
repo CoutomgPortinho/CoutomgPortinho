@@ -23,12 +23,6 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoutomgPortinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 ---
 
@@ -41,11 +35,16 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## 📫 Vamos trocar uma ideia?
+###  Como me encontrar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+Se quiser trocar uma ideia sobre projetos, falar mal de erros de sintaxe ou apenas compartilhar memes de programação, me chama:
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USER_AQUI)
 
 ---
 
-> "O código é como humor. Quando você tem que explicar, é porque é ruim." – *Algum dev cansado, mas resiliente.* 🤖 😅
+> "Programar não é apenas escrever código, é resolver problemas que você não sabia que tinha de formas que você não entende." 
