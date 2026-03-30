@@ -4,7 +4,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## $\color{cor}{o que estou fazendo?}$ 
+## $\color{blue}{\text{O que estou fazendo?}}$
 
 - 📚 **Aprendendo:** Lógica de programação, Banco de Dados e as artes místicas do Backend e Frontend.
 - 💡 **Meta:** Criar soluções que facilitem a vida das pessoas (e que não quebrem em produção, se possível).
