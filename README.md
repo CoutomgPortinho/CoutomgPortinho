@@ -35,7 +35,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ##  Fatos sobre mim
 
-*  Durmo 8 horas por dia.
+*  Sei trabalhar com metodologia Scrum
 *  Tento debugar o código olhando fixamente para a tela até ele sentir medo.
 *  Sou movido a desafios e o padrão de excelência do SENAI.
 *  Acredito que "funciona na minha máquina" deveria ser uma categoria de arte.
