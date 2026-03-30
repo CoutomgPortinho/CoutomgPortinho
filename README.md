@@ -1,5 +1,5 @@
 <p align="center">
- />###  $\color{red}{\text{✧}}$ $\color{cor}{Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
+ />###  Letra Gigante $\color{red}{\text{✧}}$ $\color{cor}{Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
 }$
 
 <p align="center">
