@@ -1,8 +1,9 @@
-###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
+<img width="1377" height="674" alt="Captura de tela 2026-03-30 104727" src="https://github.com/user-attachments/assets/84b90ea0-0685-4b47-ac69-4264a39804c2" />###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
 
 
 <p align="center">
-  <img src="https://i.ibb.co/CsqWj8k/miguel-porto-banner.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
+ [Uploading Captura de tela 2026-03-30 104727.png…]()
+B_GEROU
 </p>
 
 <p align="center">
