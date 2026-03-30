@@ -1,7 +1,8 @@
 ###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
 
 
-<p align="center">
+<p align="center">![Uploading captura.png…]()
+
   <img src="captura.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
 </p>
 
