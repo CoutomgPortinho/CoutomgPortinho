@@ -4,7 +4,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## $\color{blue}{\text{O QUE ESTOU FAZENDO?}}$
+## $\color{blue}{\text{O que estou fazendo?}}$
 
 - 📚 **Aprendendo:** Lógica de programação, Banco de Dados e as artes místicas do Backend e Frontend.
 - 💡 **Meta:** Criar soluções que facilitem a vida das pessoas (e que não quebrem em produção, se possível).
@@ -12,8 +12,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## 🛠️ Meu Arsenal Tecnológico (Em Expansão)
-
+## $\color{orange}{\text{Meu Arsenal Tecnológico}}$  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
