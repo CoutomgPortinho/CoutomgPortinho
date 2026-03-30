@@ -1,15 +1,13 @@
 ###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
 
 
-<p align="center">![Uploading captura.png…]()
-
-  <img src="captura.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
+<p align="center">
+  <img src="banner.png" alt="Banner Miguel Porto - Futuro Desenvolvedor de Sistemas @ SENAI" width="100%">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Desenvolvedor+de+Sistemas+em+constru%C3%A7%C3%A3o...;Transformando+caf%C3%A9+em+c%C3%B3digo+no+SENAI;Buscando+sistemas+ic%C3%B4nicos+%E2%99%84" alt="Typing SVG" />
 </p>
-
 Atualmente, estou mergulhado no universo dos códigos através do curso técnico em **Desenvolvimento de Sistemas no SENAI**. Sabe aquele erro que aparece do nada na linha 42? Pois é, eu sou o cara que vai passar horas tentando entender o porquê (e provavelmente era apenas um ponto e vírgula esquecido).
 
 ---
