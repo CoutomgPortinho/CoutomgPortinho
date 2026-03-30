@@ -1,5 +1,9 @@
 ###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
 
+<p align="center">
+  <img src="captura_porto.png." alt="Banner Miguel Porto" width="100%">
+</p>
+
 Atualmente, estou mergulhado no universo dos códigos através do curso técnico em **Desenvolvimento de Sistemas no SENAI**. Sabe aquele erro que aparece do nada na linha 42? Pois é, eu sou o cara que vai passar horas tentando entender o porquê (e provavelmente era apenas um ponto e vírgula esquecido).
 
 ---
@@ -7,7 +11,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 ## $\color{blue}{\text{O que estou fazendo?}}$
 
 - 📚 **Aprendendo:** Lógica de programação, Banco de Dados e as artes místicas do Backend e Frontend.
-- 💡 **Meta:** Criar soluções que facilitem a vida das pessoas (e que não quebrem em produção, se possível).
+- 💡 **Meta:** Criar soluções que facilitem a vida das pessoas.
 - 🛠️ **No SENAI:** Desenvolvendo projetos práticos com foco em padrões de mercado e boas práticas.
 
 ---
@@ -25,7 +29,7 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 
 ---
 
-## 🌈 Fatos Curiosos sobre mim
+##  Fatos sobre mim
 
 * [ ] Durmo 8 horas por dia.
 * [x] Tento debugar o código olhando fixamente para a tela até ele sentir medo.
@@ -44,6 +48,11 @@ Se quiser trocar uma ideia sobre projetos, falar mal de erros de sintaxe ou apen
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USER_AQUI)
 
+
+### 🐍 Meu Gráfico de Contribuições
+
+![snake gif](https://github.com/CoutomgPortinho/CoutomgPortinho/blob/output/github-contribution-grid-snake.svg)
 ---
 
-> "Programar não é apenas escrever código, é resolver problemas que você não sabia que tinha de formas que você não entende." 
+> "Programar não é apenas escrever código, é resolver problemas que você não sabia que tinha de formas que você não entende."
+
