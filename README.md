@@ -1,5 +1,6 @@
- />###  $\color{red}{\text{✧}}$ Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
-
+<p align="center">
+ />###  $\color{red}{\text{✧}}$ $\color{cor}{Futuro Desenvolvedor de Sistemas | Aluno SENAI﹃ 
+}$
 
 <p align="center">
  <img width="1377" height="674" alt="Captura de tela 2026-03-30 104727" src="https://github.com/user-attachments/assets/84b90ea0-0685-4b47-ac69-4264a39804c2"
