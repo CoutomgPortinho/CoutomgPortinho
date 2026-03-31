@@ -1,6 +1,6 @@
 <p align="center">
-  ( $\color{red}{\text{✧}}$ $\color{cor}{Futuro  Desenvolvedor  de  Sistemas  |  Aluno  SENAI﹃ 
-}$) 
+   $\color{red}{\text{✧}}$ $\color{cor}{Futuro  Desenvolvedor  de  Sistemas  |  Aluno  SENAI﹃ 
+}$ 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Desenvolvedor+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+no;Buscando+sistemas+ic%C3%B4nicos+%E2%99%84" alt="Typing SVG" />
