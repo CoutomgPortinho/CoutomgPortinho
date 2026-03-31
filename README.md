@@ -29,8 +29,6 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 *  Sou movido a desafios e o padrão de excelência do SENAI.
 *  Acredito que "funciona na minha máquina" deveria ser uma categoria de arte.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CoutomgPortinho&show_icons=true&theme=radical" />
-
 
   <p align="center">
  <img width="1377" height="674" alt="Captura de tela 2026-03-30 104727" src="https://github.com/user-attachments/assets/84b90ea0-0685-4b47-ac69-4264a39804c2"
