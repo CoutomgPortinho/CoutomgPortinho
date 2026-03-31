@@ -3,10 +3,6 @@
 }$) 
 
 <p align="center">
- <img width="1377" height="674" alt="Captura de tela 2026-03-30 104727" src="https://github.com/user-attachments/assets/84b90ea0-0685-4b47-ac69-4264a39804c2"
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Desenvolvedor+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+no;Buscando+sistemas+ic%C3%B4nicos+%E2%99%84" alt="Typing SVG" />
 </p>
 Atualmente, estou mergulhado no universo dos códigos através do curso técnico em **Desenvolvimento de Sistemas no SENAI**. Sabe aquele erro que aparece do nada na linha 42? Pois é, eu sou o cara que vai passar horas tentando entender o porquê (e provavelmente era apenas um ponto e vírgula esquecido).
@@ -40,6 +36,11 @@ Atualmente, estou mergulhado no universo dos códigos através do curso técnico
 *  Tento debugar o código olhando fixamente para a tela até ele sentir medo.
 *  Sou movido a desafios e o padrão de excelência do SENAI.
 *  Acredito que "funciona na minha máquina" deveria ser uma categoria de arte.
+
+
+  <p align="center">
+ <img width="1377" height="674" alt="Captura de tela 2026-03-30 104727" src="https://github.com/user-attachments/assets/84b90ea0-0685-4b47-ac69-4264a39804c2"
+</p>
 
 ---
 
