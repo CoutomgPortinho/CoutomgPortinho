@@ -1,4 +1,5 @@
-<p align="center"> 
+
+  
    ## $\color{pink}{\text{Futuro  Desenvolvedor  de  Sistemas  |  Aluno  SENAI﹃}}$
   
  
