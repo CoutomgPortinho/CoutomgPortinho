@@ -5,7 +5,7 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Desenvolvedor+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+no;Buscando+sistemas+ic%C3%B4nicos+%E2%99%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Desenvolvedor+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo;Buscando+sistemas+ic%C3%B4nicos+%E2%99%84" alt="Typing SVG" />
 </p>
 Atualmente, estou mergulhado no universo dos códigos através do curso técnico em **Desenvolvimento de Sistemas no SENAI**. Sabe aquele erro que aparece do nada na linha 42? Pois é, eu sou o cara que vai passar horas tentando entender o porquê (e provavelmente era apenas um ponto e vírgula esquecido).
 
